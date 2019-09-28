@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://weiwaegoo.yellowcode.co/sitemap.xml
